@@ -7,9 +7,9 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['917605902011', 'TRUNKS', true],
-  ['6281255369012', 'GOTEN', true], 
-  [''] 
+  ['963940383041', 'MADARA', true],
+  ['']
+  ['']
 ] //Number of owners
 
 global.mods = ['917605902011','32460248586'] 
@@ -47,10 +47,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'Goten-Bot'
+global.botname = '𝑚𝑎𝑑𝑎𝑟𝑎'
 global.premium = 'true'
-global.packname = 'Goten-Bot ☕' 
-global.author = 'دراغـون بـول عـمـك' 
+global.packname = '𝑚𝑎𝑑𝑟𝑎-𝑏𝑜𝑡' 
+global.author = 'مـادارا اوتـشـيـهـا 🎐' 
 global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
 global.fgsc = 'https://github.com/Guru322/GURU-BOT-V1' 
